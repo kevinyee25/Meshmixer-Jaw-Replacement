@@ -41,7 +41,7 @@ The project began by importing `Human_Lower_Jaw.stl` into Meshmixer. A duplicate
   <img src="Human_Lower_Jaw.stl" width="650" alt="Original Human Lower Jaw Scan">
 </p>
 
-  <img src="original-lower-jaw.png" width="650" alt="Original Human Lower Jaw Scan">
+  <img src="images/original-lower-jaw.png" width="650" alt="Original Human Lower Jaw Scan">
 </p>
 
 ---
